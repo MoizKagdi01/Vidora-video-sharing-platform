@@ -1,0 +1,1 @@
+export const PLACEHOLDER_THUMBNAIL_URL = "/placeholder.svg";
